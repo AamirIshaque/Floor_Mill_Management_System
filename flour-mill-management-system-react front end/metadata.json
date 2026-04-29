@@ -1,0 +1,5 @@
+{
+  "name": "Flour Mill Management System",
+  "description": "A comprehensive frontend application for managing flour mill operations, including accounts, purchases, sales, and administration, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
